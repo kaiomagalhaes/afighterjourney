@@ -71,9 +71,6 @@ example.com/images/icons/apple-touch-icon-180x180.png
 example.com/images/icons/android-icon-192x192.png
 ~~~
 
-*   `pages/about.md`
-    *   YAML variable `imagefeature` shoud have image path relative to `images/` directory, i.e., `foo.png` will link to `example.com/images/foo.png`
-    *   Specify `site.owner.avatar` and `site.owner.twitter` along with other variables in `_config.yml`
 *   `syspages/`:
     *   Edit page title and description in YAML front matter.
     *   For web search to work, specify [Google Custom Search Engine](https://cse.google.com) API key for `google_search` variable.
