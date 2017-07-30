@@ -7,16 +7,16 @@ relative_permalinks: false
 encoding: utf-8
 
 # Setup
-title:               A Fighter's Journey
-#tagline:             A Fighter's Journey website
-description:         A Fighter's Journey is where I show my path through becoming a JiuJitsu fighter
-# url: https://kaiomagalhaes.com/afighterjourney
+title:               "A Fighter's Journey"
+#tagline:            "A Fighter's Journey website"
+description:         "A Fighter's Journey is where I show my path through becoming a JiuJitsu fighter"
+# url: https://lanyon-plus.sbamin.com
 # baseurl: ""
 # urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
-url: https://kaiomagalhaes.com/afighterjourney
-baseurl: "/afighterjourney"
-urlimg: https://dyndna.github.io/lanyon-plus/images/
+#url: https://kaiomagalhaes.github.io/afighterjourney
+#baseurl: "/afighterjourney"
+#urlimg: https://dyndna.github.io/lanyon-plus/images/
 markdown: kramdown
 kramdown:
   math_engine: mathjax
