@@ -4,15 +4,15 @@ title:
 date: "2017-07-31"
 slug: "2017_07_31"
 category:
-  - treino livre
+  - Treino livre
   - Estrangulamento
   - Costas
   - Arqueiro
 tags:
   - treino_livre
-  - Estrangulamento
-  - Costas
-  - Arqueiro
+  - estrangulamento
+  - costas
+  - arqueiro
   - 2018-07
 
 show_meta: true
