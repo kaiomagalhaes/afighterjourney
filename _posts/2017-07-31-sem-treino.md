@@ -11,18 +11,12 @@ gistembed: true
 published: true
 noindex: false
 nofollow: false
-# hide QR code, permalink block while printing.
 hide_printmsg: false
-# show post summary or full post in RSS feed.
 summaryfeed: false
-## for twitter summary card with squared image and page description or page excerpt:
-# imagesummary: foo.png
-## for twitter card with large image:
-# imagefeature: "http://img.youtube.com/vi/VEIrQUXm_hY/0.jpg"
-## for twitter video card: (active for this page)
 videofeature: "https://www.youtube.com/embed/iG9CE55wbtY"
 imagefeature: "http://img.youtube.com/vi/iG9CE55wbtY/0.jpg"
-videocredit: tedtalks
+tags:
+  - 2018-07
 ---
 
 Acordei meio ruim e fui treinar, durante a tarde descobri que era gripe. Lá se vai meu treino essa semana.
